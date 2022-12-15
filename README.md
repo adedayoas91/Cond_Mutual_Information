@@ -60,6 +60,7 @@ cd simulations
 python3 createSimData.py &
 python3 createBoxplots.py 
 ```
+
 After these scripts have run, a pdf with the images should pop up.
 
 ## Tests
